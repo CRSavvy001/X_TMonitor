@@ -1,0 +1,5 @@
+.env
+watched_accounts.json
+__pycache__/
+*.pyc
+.DS_Store
